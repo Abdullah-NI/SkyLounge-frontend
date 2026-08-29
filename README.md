@@ -12,7 +12,7 @@ A modern, full-stack,  client web application for **Sky Lounge Restaurant**. Bui
 
 ## 🔗 Live Demo
 
-**Live Demo**: [Add deployment URL]
+**Live Demo**: https://sky-lounge-dbd.vercel.app/
 
 ---
 
@@ -24,7 +24,7 @@ A modern, full-stack,  client web application for **Sky Lounge Restaurant**. Bui
 ### Customer Facing Interface
 
 - **Home Page**
-  ![Home Page](https://via.placeholder.com/1200x630.png?text=Sky+Lounge+-+Home+Page+Hero+%26+Popular+Categories)
+  ![Home Page](https://res.cloudinary.com/dsgtmmky/image/upload/v1788036695/Screenshot_2026-08-30_022002.png)
   *Features ambient hero section, admin-curated popular categories, chef specials, and customer review highlights.* 
 
 - **Menu Page**
